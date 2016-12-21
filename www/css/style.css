@@ -49,6 +49,7 @@ body > .grid {
 }
 #index-body{
 	background-image: url("../images/background2.png");
+	width: auto;
 }
 #index-grid{
 	margin: 0px;
